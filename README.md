@@ -184,21 +184,6 @@ EDA Profiling
 
 
 
-
-Example:
-
-```
-screenshots/
-│
-├── home.png
-├── preview.png
-├── charts.png
-├── profiling.png
-└── ai_chat.png
-```
-
----
-
 ## 🔮 Future Improvements
 
 - Excel file support
